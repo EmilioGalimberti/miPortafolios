@@ -106,3 +106,8 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 ## Pages & Routes
 https://www.youtube.com/watch?v=hLOywYu4KDc&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&index=7
+
+## Navbar & Links
+https://www.youtube.com/watch?v=_qPdXk4sdzU&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&index=4
+
+## Creating a Layout File
