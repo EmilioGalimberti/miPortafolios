@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+
+  pathPrefix:'miPortafolios',
+
   /* Your site config here */
   plugins: [],
 }
