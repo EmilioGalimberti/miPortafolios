@@ -1,18 +1,23 @@
 import React from "react"
+import { Link } from 'gatsby'
 
 import Layout from "../components/Layout"
+
+
+import {header, btn} from "../styles/home.module.css"
 
 export default function Home() {
   return (
     <React.Fragment>
       <Layout>
       
-        <section>
+        <section className={header}>
           
           <div>
-            <h2>Galimberti Emilio</h2>
+            <h2 >Portafolios</h2>
             <h3>Angular & React frontend developer</h3>
             <p>Estudiante de ing en sistemas & desarrollador fullstack</p>
+            <Link className={btn}  to='/projects'>My Portafolio Projects</Link>
           </div>
 
 
