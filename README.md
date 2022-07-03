@@ -112,3 +112,9 @@ https://www.youtube.com/watch?v=_qPdXk4sdzU&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2n
 
 ## Creating a Layout File
 https://www.youtube.com/watch?v=eXzlmwFQGEc&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&index=5
+
+## Styling Components
+https://www.youtube.com/watch?v=PiY5QX-htB4&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&index=6
+
+## Static Files
+https://www.youtube.com/watch?v=YNZMiDzfCCU&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&index=7

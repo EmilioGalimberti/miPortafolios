@@ -19,7 +19,7 @@ export default function Home() {
             <p>Estudiante de ing en sistemas & desarrollador fullstack</p>
             <Link className={btn}  to='/projects'>My Portafolio Projects</Link>
           </div>
-
+          <img src='./banner.png' alt="site banner" style={{maxWidth: "100%"}}></img>
 
         </section>
 
